@@ -21,7 +21,7 @@ const loop = setInterval(() => {
         mario.style.animation = 'none';
         mario.style.bottom = `${marioPosition}px`;
 
-        mario.src = 'img/AAAAAA/fantas.png';
+        mario.src = 'img/fantas.png';
         mario.style.width = '75px';
         mario.style.marginLeft = '50px'
         /* Disparo o som do Game over ,
