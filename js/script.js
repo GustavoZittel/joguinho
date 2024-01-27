@@ -31,7 +31,7 @@ const loop = setInterval(() => {
         gameOver.play();
      
         document.getElementById("text-start").style.color = "black";
-        document.getElementById("text-start").innerHTML = "<strong>GAME OVER</strong>";
+        document.getElementById("text-start").innerHTML = "<strong>BURRÃO KKKKKKK</strong>";
         clearInterval(loop);
     }
 }, 10);
