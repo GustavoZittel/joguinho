@@ -45,6 +45,7 @@ const rotinapular = () => {
         mario.classList.remove('jump');
     }, 500);
 } 
+document.addEventListener('click', rotinapular);
 document.addEventListener('keydown', rotinapular);
 
 
